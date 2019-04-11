@@ -3,12 +3,29 @@
     <title>als-reviews</title>
     <link href="https://kmg7.github.io/myreviews/feed.xml" rel="self" />
     <link href="https://kmg7.github.io/myreviews" />
-    <updated>2019-03-07T09:39:05-05:00</updated>
+    <updated>2019-04-11T15:06:48-04:00</updated>
     <author>
         <name>Allen Johnson</name>
     </author>
     <id>https://kmg7.github.io/myreviews</id>
 
+    <entry>
+        <title>Six Figure Inc Review</title>
+        <author>
+            <name>Allen Johnson</name>
+        </author>
+        <link href="https://kmg7.github.io/myreviews/six-figure-inc-review.html"/>
+        <id>https://kmg7.github.io/myreviews/six-figure-inc-review.html</id>
+
+        <updated>2019-04-11T15:06:33-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kmg7.github.io/myreviews/media/posts/4/" alt="" />
+                    My Review of Dirk Diggy's Six Figure Inc.I've had the good fortune to have been a member of Dirk "Diggy" de Bruin's Six Figure Inc. since it was launched in 2017. Unfortunately, as many of you can probably relate to, I started in the Six&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Serp.farm</title>
         <author>

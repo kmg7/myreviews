@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://kmg7.github.io/myreviews/six-figure-inc-review.html",
+            "url": "https://kmg7.github.io/myreviews/six-figure-inc-review.html",
+            "title": "Six Figure Inc Review",
+            "summary": "My Review of Dirk Diggy's Six Figure Inc.I've had the good fortune to have been a member of Dirk \"Diggy\" de Bruin's Six Figure Inc. since it was launched in 2017. Unfortunately, as many of you can probably relate to, I started in the Six&hellip;",
+            "image": "https://kmg7.github.io/myreviews/media/posts/4/",
+            "author": {
+                "name": "Allen Johnson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-11T14:08:10-04:00",
+            "date_modified": "2019-04-11T15:06:33-04:00"
+        },
+        {
             "id": "https://kmg7.github.io/myreviews/serpfarm.html",
             "url": "https://kmg7.github.io/myreviews/serpfarm.html",
             "title": "Serp.farm",
